@@ -1,0 +1,15 @@
+owner
+username : owner@gmail.com
+pw : owner
+
+admin
+username : admin@gmail.com	
+pw : admin
+
+waiter
+username : aldi@gmail.com
+pw : aldi
+
+kasir
+username : kasir@gmail.com
+pw : kasir
